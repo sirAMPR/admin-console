@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "from": "email@example.com",
+    "to": "firstname.lastname@example.com",
+    "subject": "Request for access",
+    "date": "2015-03-25T12:00:00Z",
+    "attachment": true
+  },
+  {
+    "id": 2,
+    "from": "email@subdomain.example.com",
+    "to": "firstname+lastname@example.com",
+    "subject": "Webinar: Build Better React Apps",
+    "date": "2015-03-25T12:00:00Z",
+    "attachement": false
+  }
+]
